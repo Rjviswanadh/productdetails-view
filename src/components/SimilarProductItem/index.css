@@ -1,0 +1,14 @@
+.similar-img {
+  height: 120px;
+  width: 100px;
+}
+.para {
+  font-weight: bold;
+  width: 150px;
+}
+.similar-products {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 200px;
+}
